@@ -1,0 +1,15 @@
+atomicwrites==1.2.1
+attrs==17.4.0
+certifi==2018.11.29
+chardet==3.0.4
+idna==2.8
+more-itertools==5.0.0
+neo4j-driver==1.2.1
+neomodel==3.2.5
+pluggy==0.6.0
+py==1.5.2
+pytest==3.3.2
+pytz==2017.3
+requests==2.21.0
+six==1.11.0
+urllib3==1.24.1
