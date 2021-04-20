@@ -7,7 +7,7 @@ more-itertools==5.0.0
 neo4j-driver==1.2.1
 neomodel==3.2.5
 pluggy==0.6.0
-py==1.5.2
+py==1.10.0
 pytest==3.3.2
 pytz==2017.3
 requests==2.21.0
